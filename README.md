@@ -1,6 +1,6 @@
 # byteorder-util [![test](https://github.com/moznion/byteorder-util-zig/actions/workflows/test.yaml/badge.svg)](https://github.com/moznion/byteorder-util-zig/actions/workflows/test.yaml)
 
-An utility library to convert the byte order between big-endian and little-endian for [Zig](https://ziglang.org/).
+A utility library to convert the byte order between big-endian and little-endian for [Zig](https://ziglang.org/).
 
 ## Synopsis
 
