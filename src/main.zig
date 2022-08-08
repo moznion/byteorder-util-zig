@@ -62,7 +62,7 @@ pub const BigEndian = struct {
     }
 };
 
-test "little endian" {
+test "endian conversion" {
     const givenU16Bytes = [_]u8{ 0x01, 0x02 };
     const givenU32Bytes = [_]u8{ 0x01, 0x02, 0x03, 0x04 };
     const givenU64Bytes = [_]u8{ 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08 };
